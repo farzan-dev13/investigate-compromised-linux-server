@@ -20,7 +20,7 @@ It provides a ready-to-run Bash script, sample outputs, and reference commands.
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/<your-user>/investigate-compromised-linux-server.git
+git clone https://github.com/farzan-dev13/investigate-compromised-linux-server.git
 cd investigate-compromised-linux-server
 chmod +x check_compromised.sh
 ./check_compromised.sh

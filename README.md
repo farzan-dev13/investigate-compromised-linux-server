@@ -8,13 +8,6 @@ It provides a ready-to-run Bash script, sample outputs, and reference commands.
 
 ---
 
-# This script does not make any changes to the system – it only collects and displays information.
-# Compatible with most Linux distributions (Debian, Ubuntu, CentOS, AlmaLinux, and others).
-# Intended for educational use, manual analysis, or quick triage of potentially compromised systems.
-
-
-
-
 ## 🧰 What’s inside?
 
 | File | Purpose |
@@ -47,6 +40,14 @@ The script prints findings to the terminal and saves a log file in the same dire
 | Cron jobs             | `crontab -l; ls /etc/cron*`  |
 | Files changed < 24 h  | `find / -mtime -1`           |
 | SSH keys              | `cat ~/.ssh/authorized_keys` |
+
+
+# This script does not make any changes to the system – it only collects and displays information.
+# Compatible with most Linux distributions (Debian, Ubuntu, CentOS, AlmaLinux, and others).
+# Intended for educational use, manual analysis, or quick triage of potentially compromised systems.
+
+
+
 
 
 Made with ❤️ by Farzan Afringan

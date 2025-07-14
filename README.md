@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Project banner">
+</p>
+
+
+
 # 🔍 Investigating a Compromised Linux Server
 
 Practical companion repo for my Dev.to article **“How to Investigate a Compromised Linux Server”**.  

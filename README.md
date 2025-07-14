@@ -19,7 +19,7 @@ It provides a ready-to-run Bash script, sample outputs, and reference commands.
 | File | Purpose |
 |------|---------|
 | `check_compromised.sh` | Automates the key investigation steps (users, processes, ports, cron, files, SSH keys). |
-| `assets/sample-output.png` | Screenshot showing a typical run (add yours!). |
+
 
 ---
 

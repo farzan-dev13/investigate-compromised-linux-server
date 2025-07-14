@@ -8,6 +8,13 @@ It provides a ready-to-run Bash script, sample outputs, and reference commands.
 
 ---
 
+# This script does not make any changes to the system – it only collects and displays information.
+# Compatible with most Linux distributions (Debian, Ubuntu, CentOS, AlmaLinux, and others).
+# Intended for educational use, manual analysis, or quick triage of potentially compromised systems.
+
+
+
+
 ## 🧰 What’s inside?
 
 | File | Purpose |
